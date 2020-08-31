@@ -43,7 +43,7 @@ Set-ExecutionPolicy Bypass -Scope Process -Force; iex ((New-Object System.Net.We
 - Disable built-in Adobe Flash in IE and Edge
 - Disable Windows Update P2P delivery optimization (WUDO) completely
 - Install `oh-my-posh` and change `Set-ExecutionPolicy` to `Unrestricted`
-- Install WSL and enable Hyper-V
+- Install WSL
 
 ## Manual setup after installation (optional)
 
